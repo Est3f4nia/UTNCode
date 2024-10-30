@@ -1,0 +1,5 @@
+lista = []
+diccionario = {num: 1, letra: "a"}
+tupla = ()
+set = {1, 2}
+
