@@ -1,7 +1,7 @@
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Copyright (C) 2025 Est3f4nia
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
@@ -672,3 +672,14 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+----------------------------------------
+ADDITIONAL TERMS: NON-COMMERCIAL USE ONLY
+
+This software is licensed under the GNU General Public License v3.0
+with the following additional restriction:
+
+This software may not be used, in whole or in part, for any commercial purpose.
+Any use, reproduction, or distribution must be for non-commercial, educational or personal purposes only.  
+Commercial use includes, but is not limited to: selling, licensing, or distributing for a fee.
+----------------------------------------
