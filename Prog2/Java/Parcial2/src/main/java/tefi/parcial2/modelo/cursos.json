@@ -1,0 +1,21 @@
+[ {
+  "idCurso" : 1,
+  "nombre" : "Informática",
+  "idProfesor" : 30155487,
+  "maxAlumnos" : 30
+}, {
+  "idCurso" : 2,
+  "nombre" : "Matemática",
+  "idProfesor" : 40132698,
+  "maxAlumnos" : 35
+}, {
+  "idCurso" : 3,
+  "nombre" : "Álgebra",
+  "idProfesor" : 123,
+  "maxAlumnos" : 30
+}, {
+  "idCurso" : 5,
+  "nombre" : "jfed",
+  "idProfesor" : 12345,
+  "maxAlumnos" : 30
+} ]

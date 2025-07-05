@@ -1,0 +1,17 @@
+[ {
+  "dni" : 30155487,
+  "nombre" : "Alberto",
+  "idCurso" : 1
+}, {
+  "dni" : 40132698,
+  "nombre" : "Luana",
+  "idCurso" : 2
+}, {
+  "dni" : 123,
+  "nombre" : "Marcos",
+  "idCurso" : 3
+}, {
+  "dni" : 12345,
+  "nombre" : "dj",
+  "idCurso" : 3
+} ]

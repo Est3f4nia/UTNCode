@@ -1,0 +1,33 @@
+[ {
+  "dni" : 46525487,
+  "nombre" : "Marisa",
+  "idCurso" : 1
+}, {
+  "dni" : 41587632,
+  "nombre" : "Juan",
+  "idCurso" : 2
+}, {
+  "dni" : 30155874,
+  "nombre" : "Matías",
+  "idCurso" : 1
+}, {
+  "dni" : 45887621,
+  "nombre" : "Joaquín",
+  "idCurso" : 2
+}, {
+  "dni" : 42551896,
+  "nombre" : "Fernando",
+  "idCurso" : 2
+}, {
+  "dni" : 38455621,
+  "nombre" : "Marta",
+  "idCurso" : 1
+}, {
+  "dni" : 1234,
+  "nombre" : "Teresa",
+  "idCurso" : 3
+}, {
+  "dni" : 213,
+  "nombre" : "Dani",
+  "idCurso" : 3
+} ]

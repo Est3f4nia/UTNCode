@@ -1,0 +1,50 @@
+[ {
+  "id" : 200,
+  "titulo" : "El Principito",
+  "autor" : "Antonie de Saint-Exupery",
+  "ilustrador" : "Antonie de Saint-Exupery",
+  "genero" : "Infantil",
+  "descripcion" : "Nice book"
+}, {
+  "id" : 201,
+  "titulo" : "Mujercitas",
+  "autor" : "Louisa May Alcott",
+  "ilustrador" : "Maria Hesse",
+  "genero" : "Novela",
+  "descripcion" : "Deep book"
+}, {
+  "id" : 202,
+  "titulo" : "Sherlock Holmes",
+  "autor" : "Arthur Conan Doyle",
+  "ilustrador" : "Fernando Vicente",
+  "genero" : "Detectivesco",
+  "descripcion" : "Wonderful book"
+}, {
+  "id" : 203,
+  "titulo" : "Harry Potter y la Piedra Filosofal",
+  "autor" : "J K Rowling",
+  "ilustrador" : "Jim Kay",
+  "genero" : "Fantasía",
+  "descripcion" : "Long book"
+}, {
+  "id" : 203,
+  "titulo" : "Harry Potter y Cámara Secreta",
+  "autor" : "J K Rowling",
+  "ilustrador" : "Fernando Vicente",
+  "genero" : "Fantasía",
+  "descripcion" : "Long book"
+}, {
+  "id" : 215,
+  "titulo" : "El Señor de los Anillos",
+  "autor" : "J R R Tolkien",
+  "ilustrador" : "Jim Kay",
+  "genero" : "Fantasía",
+  "descripcion" : "Boring book"
+}, {
+  "id" : 206,
+  "titulo" : "La Divina Comedia",
+  "autor" : "Dante",
+  "ilustrador" : "Maria Hesse",
+  "genero" : "Reflexion",
+  "resenia" : "Weird book"
+} ]
