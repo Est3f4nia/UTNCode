@@ -1,0 +1,31 @@
+[ {
+  "cliente" : 42366587,
+  "servicio" : "Agua",
+  "detalle" : "Agua turbia, con tierra",
+  "fecha" : "11/6/2025",
+  "estado" : "Registrado"
+}, {
+  "cliente" : 554882951,
+  "servicio" : "Agua",
+  "detalle" : "Turbia, con tierra",
+  "fecha" : "11/6/2025",
+  "estado" : "Registrado"
+}, {
+  "cliente" : 41222369,
+  "servicio" : "Luz",
+  "detalle" : "Luz cortada, poste caído",
+  "fecha" : "9/6/2025",
+  "estado" : "Registrado"
+}, {
+  "cliente" : 554882951,
+  "servicio" : "Luz",
+  "detalle" : "Luz cortada",
+  "fecha" : "11/6/2025",
+  "estado" : "Registrado"
+}, {
+  "cliente" : 46592563,
+  "servicio" : "Gas",
+  "detalle" : "Potencia débil",
+  "fecha" : "10/6/2025",
+  "estado" : "Terminado"
+} ]

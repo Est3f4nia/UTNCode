@@ -1,0 +1,46 @@
+[ {
+  "dni" : 46592563,
+  "nombre" : "Martín García",
+  "tel" : "353221648",
+  "mail" : "martin@mail.com"
+}, {
+  "dni" : 35662497,
+  "nombre" : "María Giovanni",
+  "tel" : "353221665",
+  "mail" : "mary@mail.com"
+}, {
+  "dni" : 41222369,
+  "nombre" : "Gonzalo Pérez",
+  "tel" : "353221665",
+  "mail" : "mary@mail.com"
+}, {
+  "dni" : 554882951,
+  "nombre" : "Facundo Martínez",
+  "tel" : "353221665",
+  "mail" : "mary@mail.com"
+}, {
+  "dni" : 38554771,
+  "nombre" : "Alejandra Hernández",
+  "tel" : "353221665",
+  "mail" : "mary@mail.com"
+}, {
+  "dni" : 38544963,
+  "nombre" : "Flor Gonzalez",
+  "tel" : "353221665",
+  "mail" : "mary@mail.com"
+}, {
+  "dni" : 39564210,
+  "nombre" : "Brisa Giovanne",
+  "tel" : "353221665",
+  "mail" : "mary@mail.com"
+}, {
+  "dni" : 40578462,
+  "nombre" : "José Rodríguez",
+  "tel" : "353221665",
+  "mail" : "mary@mail.com"
+}, {
+  "dni" : 42366587,
+  "nombre" : "Tomás Guille",
+  "tel" : "3534778210",
+  "mail" : "tom@mail.com"
+} ]
